@@ -142,7 +142,7 @@ td {
 }
 
 body {
-  background: url(/assets/background.jpeg);
+  background: url(../assets/background.jpeg);
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
